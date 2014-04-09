@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="AllowBackup" severity="ignore" />
+    <issue id="OldTargetApi" severity="ignore" />
+    <issue id="SimpleDateFormat">
+        <ignore path="src/com/example/diet/diary/Diet_Diary.java" />
+    </issue>
+</lint>
